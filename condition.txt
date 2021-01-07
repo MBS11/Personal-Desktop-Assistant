@@ -1,0 +1,2 @@
+The code only runs on Python version 3.7.4
+Higher versions may not support some of the fuctionalities and the code will not work.
